@@ -1,0 +1,4 @@
+1) "RecyclerView" is called "Recycler", because if anything it contains is removed from the screen, it's also removed from the memory, which makes it much faster than other views.
+2) The difference between a normal gird and a staggering grid is that in a normal gird every grid is of the same size, while a staggering grid can contain bigger or smaller grids.
+3) The purpose of logcat is to display any and all logs coming from the device.
+4) I would defintely use logcat to develop android apps, because it allows you to see what's wrong without having to log everything yourself. This is especially useful in large applications.
